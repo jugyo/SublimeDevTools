@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "DevTools: Enable Log Commands",
+    "command": "enable_log_commands"
+  },
+  {
+    "caption": "DevTools: Disable Log Commands",
+    "command": "disable_log_commands"
+  }
+]
